@@ -1,6 +1,5 @@
-| Column A | Column B |
-|----------|----------|
-| Example  | ```bash  
-echo "Hello"  
-echo "World"  
-``` |
+| Column A  | Column B  | Column C |
+|-----------|-----------|----------|
+| Left      | Centered  | Right    |
+| Align     | Alignment | Example  |
+| Example   | Content   | Data     |
