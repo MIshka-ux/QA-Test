@@ -1,6 +1,3 @@
-| Column 1 | Column 2 |
+| Column A | Column B |
 |----------|----------|
-| Item 1   | ```bash
-  echo "Hello"
-  echo "World"
-  ``` |
+| Example  | `echo "Hello"`<br>`echo "World"` |
